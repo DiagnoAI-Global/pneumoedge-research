@@ -14,6 +14,3 @@
 |-------|---------|----------|-------------|-------------|-------|------|-----------|
 | Xception | Mendeley | 97.12% | 97.69% | 96.15% | 0.9934 | 21.61 MB | 550.76 ms |
 | EfficientNetB4 | NIH | 80.94% | 72.66% | 84.28% | 0.856 | 18.59 MB | 232.69 ms |
-
-CheXNet (Stanford DenseNet-121 baseline): AUROC 0.768
-EfficientNetB4 exceeds CheXNet by 17% on AUROC.
